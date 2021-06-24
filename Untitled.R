@@ -1,2 +1,3 @@
-print("likned with rstudio")
-print("live on github")
+print("linked with github")
+
+print("live on git")
